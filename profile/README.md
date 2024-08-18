@@ -1,4 +1,5 @@
-## Hi there 👋
+## Bienvenue chez MobiLille 👋
+MobiLille est un site internet et un compte X géré par des bénévoles passionnés qui tiennent au courant en temps réel de l'information trafic du réseau de transports en commun de la Métropole Européenne de Lille
 
 <!--
 
